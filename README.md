@@ -1,5 +1,5 @@
 # Persian Language vowel finding Project
-![logo](nlp-pr3.png)
+![logo](nlp-pr3.jpg)
 
 ## Table of Contents
 - [Overview](#overview)
